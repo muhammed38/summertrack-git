@@ -1,4 +1,4 @@
-# summertrack-git
+# Summertrack Git Practice Repo
 Simple Repo
 ## Problematic line: timestamps separated by comma's. 
 Use F12, and get the result of Date.now() on the javascript console:
